@@ -13,7 +13,7 @@ Step 3: Type this inside
 echo "Hello World!"
 
 What does this mean?
-PartWhat it means#!/bin/bash"Hey computer, use BASH to run this file." This line is called shebang. Always first line.echoPrint something on screen. Like print() in Python"Hello World!"The text you want to print
+PartWhat it means #!/bin/bash"Hey computer, use BASH to run this file." This line is called shebang. Always first line.echoPrint something on screen. Like print() in Python"Hello World!"The text you want to print
 Step 4: Save and Exit
 
 Press Ctrl + X → then Y → then Enter
