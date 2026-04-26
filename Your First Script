@@ -1,0 +1,31 @@
+Your First Script:
+
+Step 1: Open Terminal
+Step 2: Create a file
+bashnano hello.sh
+
+nano = a simple text editor inside terminal
+.sh = means it's a shell script file
+
+Step 3: Type this inside
+bash#!/bin/bash
+echo "Hello World!"
+What does this mean?
+PartWhat it means#!/bin/bash"Hey computer, use BASH to run this file." This line is called shebang. Always first line.echoPrint something on screen. Like print() in Python"Hello World!"The text you want to print
+Step 4: Save and Exit
+
+Press Ctrl + X → then Y → then Enter
+
+Step 5: Give permission to run
+bashchmod +x hello.sh
+
+By default, Linux doesn't trust new files. chmod +x means "give this file permission to execute (run)"
+
+Step 6: Run it!
+bash./hello.sh
+
+./ means "run this file from current folder"
+
+Output:
+Hello World!
+🎉 You just wrote your first script!
