@@ -35,3 +35,12 @@ Step 6: Run it!
 Output:
 Hello World!
 🎉 You just wrote your first script!
+
+
+Interview Question #1
+Q: What is a shell script?
+A: A shell script is a file that contains a list of commands. Instead of typing commands one by one, we put them all in a file and run the file. It saves time and helps automate tasks in Linux/DevOps.
+
+Interview Question #2
+Q: What is #!/bin/bash? What is it called?
+A: It is called a shebang (or hashbang). It always goes on the first line of the script. It tells the operating system which program should run this script. /bin/bash means use the Bash shell.
