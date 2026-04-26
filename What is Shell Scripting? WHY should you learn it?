@@ -1,0 +1,25 @@
+What is Shell Scripting? WHY should you learn it?
+Think of it like this:
+Imagine you work in a factory. Every morning you have to:
+
+Turn on 10 machines
+Check if they're working
+Write a report
+
+Doing this manually every day = waste of time.
+So you hire a robot to do it automatically.
+Shell script = that robot 🤖
+In DevOps, you need to:
+
+Start/stop servers
+Check if a website is up
+Take backups
+Deploy code
+
+Shell scripts automate all of this.
+
+What is a "Shell"?
+When you open a terminal (black screen with text), you're talking to the Shell.
+Shell = The translator between you and the computer.
+You type commands → Shell understands → Computer does the work.
+The most popular shell is called BASH (Bourne Again SHell). This is what we'll learn.
